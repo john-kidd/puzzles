@@ -1,7 +1,7 @@
 describe('rotate-left', function(){
     var rotateLeft = require('../rotate-left/rotate-left');
 
-    it('2,[1,2,3,4,5]', function() {
+    it('[1,2,3,4,5],2', function() {
         // arrange
         var n = 2;
         var input = [1,2,3,4,5];

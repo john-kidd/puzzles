@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzles", "Puzzles\Puzzles.csproj", "{FF9D90E5-D68F-4127-B1F3-FECD6A702BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzles.Specs", "Puzzles.Specs\Puzzles.Specs.csproj", "{F0AB6D7D-BD41-4D20-9C41-5D0EA51E44A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9D90E5-D68F-4127-B1F3-FECD6A702BC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF9D90E5-D68F-4127-B1F3-FECD6A702BC9}.Debug|x86.Build.0 = Debug|Any CPU
+		{FF9D90E5-D68F-4127-B1F3-FECD6A702BC9}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF9D90E5-D68F-4127-B1F3-FECD6A702BC9}.Release|x86.Build.0 = Release|Any CPU
+		{F0AB6D7D-BD41-4D20-9C41-5D0EA51E44A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F0AB6D7D-BD41-4D20-9C41-5D0EA51E44A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{F0AB6D7D-BD41-4D20-9C41-5D0EA51E44A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{F0AB6D7D-BD41-4D20-9C41-5D0EA51E44A2}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
