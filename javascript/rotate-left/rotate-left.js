@@ -8,3 +8,5 @@ var rotateLeft = function(input, n) {
     }
     return output;
 }
+
+module.exports = rotateLeft;

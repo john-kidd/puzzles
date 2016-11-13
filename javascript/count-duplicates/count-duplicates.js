@@ -14,3 +14,5 @@ var countDuplicates = function(input) {
 
     return output;
 };
+
+module.exports = countDuplicates;
